@@ -1,7 +1,7 @@
 [![CI](https://github.com/redhat-developer/vscode-yaml/workflows/CI/badge.svg)](https://github.com/redhat-developer/vscode-yaml/actions/workflows/CI.yaml)
 [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/redhat.vscode-yaml.svg 'Current Release')](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
-# YAML Language Support by Red Hat
+# ND YAML Language Support by SPI demonstrator
 Provides comprehensive YAML Language support to [Visual Studio Code](https://code.visualstudio.com/), via the [yaml-language-server](https://github.com/redhat-developer/yaml-language-server), with built-in Kubernetes syntax support.
 
 ## Features
@@ -239,11 +239,3 @@ e.g.
   }
 }
 ```
-
-## Data and Telemetry
-
-The `vscode-yaml` extension collects anonymous [usage data](USAGE_DATA.md) and sends it to Red Hat servers to help improve our products and services. Read our [privacy statement](https://developers.redhat.com/article/tool-data-collection) to learn more. This extension respects the `redhat.telemetry.enabled` setting which you can learn more about at https://github.com/redhat-developer/vscode-redhat-telemetry#how-to-disable-telemetry-reporting
-
-## How to contribute
-
-The instructions are available in the [contribution guide](CONTRIBUTING.md).
