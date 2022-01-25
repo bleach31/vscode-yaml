@@ -1,25 +1,20 @@
 {
   "name": "vscode-yaml",
-  "displayName": "YAML",
-  "description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-  "author": "Red Hat",
+  "displayName": "ND YAML",
+  "description": "Tiny Architecture Modeling by Yaml",
+  "author": "SPI(OSS:Red Hat)",
   "contributors": [
     {
-      "name": "Joshua Pinkney",
-      "email": "jpinkney@redhat.com"
-    },
-    {
-      "name": "Yevhen Vydolob",
-      "email": "yvydolob@redhat.com"
+      "name": "bleach31"
     }
   ],
   "license": "MIT",
-  "version": "1.3.0",
-  "publisher": "redhat",
-  "bugs": "https://github.com/redhat-developer/vscode-yaml/issues",
+  "version": "1.3.1",
+  "publisher": "spi",
+  "bugs": "https://github.com/bleach31/vscode-yaml/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/redhat-developer/vscode-yaml"
+    "url": "https://github.com/bleach31/vscode-yaml/"
   },
   "icon": "icon/icon128.png",
   "engines": {
